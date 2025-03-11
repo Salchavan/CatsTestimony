@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Don Michifú Castañeda",
+      "city": "Gatópolis",
+      "job": "Chief Technology Officer (CTO)",
+      "company": "SoftForge Studios",
+      "text": "Gracias a ti, ahora sé que el código bien estructurado es como un rascador bien colocado: indispensable. ¡Eres el mejor CTO de los CTOs!"
+    },
+    {
+      "id": 2,
+      "name": "Bolita de Uñas Montenegro",
+      "city": "Ronronburgo",
+      "job": "Analista de Ciberseguridad y Protección de Datos",
+      "company": "MeowDefend Inc.",
+      "text": "Tus consejos sobre seguridad han salvado más datos que vidas tiene un gato. ¡Gracias, Salvador, por hacerme un experto en proteger lo importante!"
+    },
+    {
+      "id": 3,
+      "name": "Pelusa Nuclear González",
+      "city": "Felinia",
+      "job": "Arquitecto de Sistemas en Inteligencia Artificial",
+      "company": "NeuroMiau Labs",
+      "text": "Cada línea de código que escribo lleva tu sello. Gracias por enseñarme que hasta la IA necesita corazón. ¡Eres el mejor!"
+    },
+    {
+      "id": 4,
+      "name": "Rugido Pequeñito del Prado",
+      "city": "Meow York",
+      "job": "Especialista en Virtualización y Kubernetes",
+      "company": "CloudPaws Technologies",
+      "text": "Orquestar contenedores parecía un caos hasta que me explicaste Kubernetes. ¡Gracias, Salvador, por hacer mi mundo más ordenado!"
+    },
+    {
+      "id": 5,
+      "name": "Sr. Mordiscos Villanueva",
+      "city": "Villa Bigotes",
+      "job": "Ingeniero de Software en Seguridad Informática",
+      "company": "PawShield Cybersecurity",
+      "text": "Tus enseñanzas me convirtieron en un guardián del código. ¡Eres un mentor increíble, Salvador!"
+    },
+    {
+      "id": 6,
+      "name": "Patitas Suavecitas de la Torre",
+      "city": "Michitlán",
+      "job": "CEO",
+      "company": "SoftMiau Startups",
+      "text": "Hoy dirijo mi propia empresa tecnológica, pero todo comenzó con tus enseñanzas. ¡Gracias, Salvador, por inspirarme a crear algo grande!"
+    }
+  ]
+  
