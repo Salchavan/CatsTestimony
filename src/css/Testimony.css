@@ -15,6 +15,9 @@
     margin: 20px;
     padding: 10px;
 }
+.div-text-testimony{
+    padding: 15px;
+}
 .img-testimony {
     width: 250px;
     height: 250px;
@@ -26,17 +29,21 @@
     font-size: 20px;
     font-weight: bold;
     color: #000;
-    margin: 0 0 5px 0;
+    margin: 0 0 10px 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #000;
 }
 .job-testimony {
     font-size: 15px;
     color: #000;
-    margin: 0 0 20px 0;
+    margin: 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #000;
 }
 .text-testimony {
     font-size: 15px;
     color: #000;
-    margin: 0;
+    margin: 10px 0 0 0;
 }
 
 @media screen and (max-width: 1000px) {
