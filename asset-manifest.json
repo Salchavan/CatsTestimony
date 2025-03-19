@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CatsTestimony/static/css/main.aadb349c.css",
-    "main.js": "/CatsTestimony/static/js/main.498760d3.js",
+    "main.css": "/CatsTestimony/static/css/main.5546245c.css",
+    "main.js": "/CatsTestimony/static/js/main.51ed24f0.js",
     "static/media/img-2.jpg": "/CatsTestimony/static/media/img-2.0ef7cc937ae6627259ca.jpg",
     "static/media/img-3.jpg": "/CatsTestimony/static/media/img-3.8af0251d60d68ca970b6.jpg",
     "static/media/img-6.jpg": "/CatsTestimony/static/media/img-6.27c232431809e81b4f9f.jpg",
@@ -9,11 +9,11 @@
     "static/media/img-1.jpg": "/CatsTestimony/static/media/img-1.2feb41a86e2b6a38a8a9.jpg",
     "static/media/img-5.jpg": "/CatsTestimony/static/media/img-5.5310b0aee5a82b7b0128.jpg",
     "index.html": "/CatsTestimony/index.html",
-    "main.aadb349c.css.map": "/CatsTestimony/static/css/main.aadb349c.css.map",
-    "main.498760d3.js.map": "/CatsTestimony/static/js/main.498760d3.js.map"
+    "main.5546245c.css.map": "/CatsTestimony/static/css/main.5546245c.css.map",
+    "main.51ed24f0.js.map": "/CatsTestimony/static/js/main.51ed24f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.aadb349c.css",
-    "static/js/main.498760d3.js"
+    "static/css/main.5546245c.css",
+    "static/js/main.51ed24f0.js"
   ]
 }
