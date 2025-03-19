@@ -1,4 +1,4 @@
-import testimonys from '../Data/testimonys.json';
+import testimonys from '../data/testimonys.json';
 import Testimony from './Testimony.js';
 import '../css/TestimonyList.css';
 

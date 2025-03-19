@@ -46,9 +46,10 @@
     margin: 10px 0 0 0;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1050px) {
     .div-testimony {
-        width: 100%;
+        width: 95%;
+        margin: 15px;
     }
     .div-text-testimony{
         margin-bottom: 20px;
@@ -59,11 +60,11 @@
     .div-testimony {
         flex-direction: column;
         height: 50%;
-        width: 90%;
-        margin: 10px 0;
+        width: 95%;
+        margin: 20px;
     }
     .div-text-testimony{
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
     #root{
         overflow-x: hidden;
